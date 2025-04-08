@@ -7,7 +7,8 @@ Slide Deck: https://docs.google.com/presentation/d/1LbjJUQByFnWuOEWslfsMZs9haacB
 
 
 # Authors
-(Watson Blair)[https://github.com/WatsonWBlair]
-(Will Torres)[https://github.com/torrwill/]
-(Isha Mukherjee)[]
-(Ruturaj Dixit)[https://github.com/ruturajdixit99]
+- [Watson Blair](https://github.com/WatsonWBlair)
+- [Ruturaj Dixit](https://github.com/ruturajdixit99)
+- [Will Torres](https://github.com/torrwill/)
+- [Isha Mukherjee]()
+- [Tejomay Kapadia](https://github.com/tejomayk)
