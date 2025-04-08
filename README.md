@@ -17,5 +17,5 @@ Slide Deck: https://docs.google.com/presentation/d/1LbjJUQByFnWuOEWslfsMZs9haacB
 - [Watson Blair](https://github.com/WatsonWBlair)
 - [Ruturaj Dixit](https://github.com/ruturajdixit99)
 - [Will Torres](https://github.com/torrwill/)
-- [Isha Mukherjee]()
+- [Isha Mukherjee](https://github.com/ishamukherjee123)
 - [Tejomay Kapadia](https://github.com/tejomayk)
